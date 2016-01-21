@@ -1,0 +1,10 @@
+#DROPPING ALL TABLES
+
+DROP TABLE Edited_by;
+DROP TABLE Editor;
+DROP TABLE Written_by;
+DROP TABLE Author;
+DROP TABLE Purchases;
+DROP TABLE Book;
+DROP TABLE Publisher;
+DROP TABLE Customer;
